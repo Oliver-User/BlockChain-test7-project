@@ -1,4 +1,4 @@
 {
-"high_price":71900,
+"high_price":64000,
 "low_price":50000
 }
